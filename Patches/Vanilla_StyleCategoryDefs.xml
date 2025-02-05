@@ -6,10 +6,10 @@
         <thingDef>Gun_PumpShotgun</thingDef>
         <styleDef>Gun_PumpShotgun_Techist</styleDef>
       </li>
-      <!-- <li>
+      <li>
         <thingDef>Gun_ChainShotgun</thingDef>
         <styleDef>Gun_ChainShotgun_Techist</styleDef>
-      </li> -->
+      </li>
       <li>
         <thingDef>Gun_SniperRifle</thingDef>
         <styleDef>Gun_SniperRifle_Techist</styleDef>
@@ -52,10 +52,10 @@
         <thingDef>Gun_PumpShotgun</thingDef>
         <styleDef>Gun_PumpShotgun_Spikecore</styleDef>
       </li>
-      <!-- <li>
+      <li>
         <thingDef>Gun_ChainShotgun</thingDef>
         <styleDef>Gun_ChainShotgun_Spikecore</styleDef>
-      </li> -->
+      </li>
       <li>
         <thingDef>Gun_SniperRifle</thingDef>
         <styleDef>Gun_SniperRifle_Spikecore</styleDef>
@@ -98,10 +98,10 @@
         <thingDef>Gun_PumpShotgun</thingDef>
         <styleDef>Gun_PumpShotgun_Morbid</styleDef>
       </li>
-      <!-- <li>
+      <li>
         <thingDef>Gun_ChainShotgun</thingDef>
         <styleDef>Gun_ChainShotgun_Morbid</styleDef>
-      </li> -->
+      </li>
       <li>
         <thingDef>Gun_SniperRifle</thingDef>
         <styleDef>Gun_SniperRifle_Morbid</styleDef>
@@ -144,10 +144,10 @@
         <thingDef>Gun_PumpShotgun</thingDef>
         <styleDef>Gun_PumpShotgun_Totemic</styleDef>
       </li>
-      <!-- <li>
+      <li>
         <thingDef>Gun_ChainShotgun</thingDef>
         <styleDef>Gun_ChainShotgun_Totemic</styleDef>
-      </li> -->
+      </li>
       <li>
         <thingDef>Gun_SniperRifle</thingDef>
         <styleDef>Gun_SniperRifle_Totemic</styleDef>
@@ -190,10 +190,10 @@
         <thingDef>Gun_PumpShotgun</thingDef>
         <styleDef>Gun_PumpShotgun_Rustic</styleDef>
       </li>
-      <!-- <li>
+      <li>
         <thingDef>Gun_ChainShotgun</thingDef>
         <styleDef>Gun_ChainShotgun_Rustic</styleDef>
-      </li> -->
+      </li>
       <li>
         <thingDef>Gun_SniperRifle</thingDef>
         <styleDef>Gun_SniperRifle_Rustic</styleDef>
