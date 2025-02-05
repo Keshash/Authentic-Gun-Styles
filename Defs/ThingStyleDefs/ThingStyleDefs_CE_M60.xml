@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingStyleDef>
+    <defName>CE_Gun_MSixty_Techist</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Techist/CE_Gun_M60_Techist</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>CE_Gun_MSixty_Spikecore</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Spikecore/CE_Gun_M60_Spikecore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>CE_Gun_MSixty_Morbid</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Morbid/CE_Gun_M60_Morbid</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>CE_Gun_MSixty_Totemic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Totemic/CE_Gun_M60_Totemic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>CE_Gun_MSixty_Rustic</defName>
+    <graphicData>
+      <texPath>Things/Weapons/WeaponStyles/Rustic/CE_Gun_M60_Rustic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+	  </graphicData>
+  </ThingStyleDef>
+</Defs>

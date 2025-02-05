@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="CE_Gun_AKM"]/comps</xpath>
+    <value>
+        <li Class="CompProperties_Styleable" />
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="Gun_PumpShotgun"]/comps</xpath>
+    <value>
+        <li Class="CompProperties_Styleable" />
+    </value>
+  </Operation> -->
+</Patch>
